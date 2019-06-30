@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369193687425",
+    "firebase_url": "https://photocity-7ced1.firebaseio.com",
+    "project_id": "photocity-7ced1",
+    "storage_bucket": "photocity-7ced1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369193687425:android:77ee5678014d2618",
+        "android_client_info": {
+          "package_name": "isumit19.photocity.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369193687425-aldd1v0bm05l3mmp8tcuf5ljb1a6o7t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "isumit19.photocity.com",
+            "certificate_hash": "3aae6558d684177632b560292e8d6ca4323d476e"
+          }
+        },
+        {
+          "client_id": "369193687425-3bksph84no35vl77k81ksb1vocu72v3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNDpgTP4v1X3_aI1qoRDfBT9Yh4CHZnvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369193687425-3bksph84no35vl77k81ksb1vocu72v3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

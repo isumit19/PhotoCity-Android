@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Photo City</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="login">Log In</string>
+    <string name="register">Don\'t have an account, <b>Sign up</b></string>
+    <string name="email">E-mail</string>
+    <string name="bt_register">Register</string>
+    <string name="al_register">Already have an account, <b>Log in</b></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="save_settings">Save Account Settings</string>
+    <string name="name">Name</string>
+    <string name="like_btn">Like Btn</string>
+    <string name="post_date">Post Date</string>
+    <string name="post_image">Post Image</string>
+    <string name="caption">Caption</string>
+    <string name="new_post">New Post</string>
+    <string name="likes">0 Likes</string>
+    <string name="logout">Logout</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976d2</color>
+    <color name="colorPrimaryDark">#004ba0</color>
+    <color name="colorAccent">#FF6F00</color>
+    <color name="grey">#EEEEEE</color>
+    <color name="white">#FFF</color>
+    <color name="light_accent">#FFAB40</color>
+    <color name="light_blue">#bbdefb</color>
+    <color name="active">#2196f3</color>
+    <color name="black">#000</color>
+    <color name="light_black">#373737</color>
+    <color name="like_button_grey">#747474</color>
+    <color name="like_active">#FF6F00</color>
+</resources>
