@@ -3,9 +3,7 @@ package isumit19.photocity.com;
 import java.util.Date;
 
 public class ImagePost extends PostId{
-    Date getTimestamp() {
-        return timestamp;
-    }
+
 
     private String  desc;
     private String image_url;
@@ -27,8 +25,11 @@ public class ImagePost extends PostId{
     }
 
 
+    public Date getTimestamp() {
+        return timestamp;
+    }
 
-    String getUser_id() {
+    public String getUser_id() {
         return user_id;
     }
 
@@ -36,7 +37,7 @@ public class ImagePost extends PostId{
         this.user_id = user_id;
     }
 
-    String getImage_url() {
+    public String getImage_url() {
         return image_url;
     }
 
@@ -44,7 +45,7 @@ public class ImagePost extends PostId{
         this.image_url = image_url;
     }
 
-    String getDesc() {
+    public String getDesc() {
         return desc;
     }
 
@@ -52,7 +53,7 @@ public class ImagePost extends PostId{
         this.desc = desc;
     }
 
-    String getThumb_url() {
+    public String getThumb_url() {
         return thumb_url;
     }
 
