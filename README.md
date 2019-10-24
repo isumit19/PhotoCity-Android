@@ -10,4 +10,4 @@ A Project designed to understand the basic features of Firebase. It implements F
 <img src="Screenshots/5.png" width="200">   <img src="Screenshots/6.png" width="200">    <img src="Screenshots/7.png" width="200">
 
 ### APK File
-- <a href="app/apk/debug/app-debug.apk">PhotoCity</a>
+You can download the app <a href="app/apk/debug/app-debug.apk">here</a>.
